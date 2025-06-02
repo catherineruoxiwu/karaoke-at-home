@@ -1,0 +1,7 @@
+downloads/
+processed/
+separated/
+processed/
+__pycache__/
+.pytest_cache/
+songs.db
