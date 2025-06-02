@@ -1,7 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# MacOS
+.DS_Store
+
+# FastAPI outputs
 downloads/
 processed/
 separated/
-processed/
-__pycache__/
-.pytest_cache/
 songs.db
+
+# Pytest cache
+.pytest_cache/
+
+# VSCode settings (optional)
+.vscode/

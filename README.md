@@ -20,4 +20,4 @@ pytest test.py
 ```
 
 ### TODO
-[ ] Finish frontend
+- [ ] Finish frontend
