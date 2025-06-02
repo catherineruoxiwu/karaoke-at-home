@@ -68,7 +68,7 @@ const translations = {
   },
 }
 
-const BACKEND_BASE = "http://192.168.189.205:8000"
+const BACKEND_BASE = "http://localhost:8000" // TODO
 
 export default function KTVHome() {
   const [language, setLanguage] = useState<Language>("zh")
