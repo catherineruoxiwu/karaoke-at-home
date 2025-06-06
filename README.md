@@ -1,8 +1,8 @@
-# KTVGen
+# KTV @ Home
 
 ## Description
 
-**ktvgen** is a fullstack karaoke generator with a web app and CLI tool. It allows users to input song links, separate vocals and instrumentals using AI, and generate KTV-style videos. The project uses React and Tailwind on the frontend, FastAPI with SQLModel on the backend, and relies on `yt-dlp`, `demucs`, `ffmpeg`, and `torch` for audio processing.
+**KTV @ Home** is a fullstack karaoke generator with a web app and CLI tool. It allows users to input song links, separate vocals and instrumentals using AI, and generate KTV-style videos. The project uses React and Tailwind on the frontend, FastAPI with SQLModel on the backend, and relies on `yt-dlp`, `demucs`, `ffmpeg`, and `torch` for audio/video processing.
 
 ## CLI
 ```
