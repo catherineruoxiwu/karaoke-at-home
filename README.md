@@ -20,13 +20,10 @@ pnpm run dev
 
 ## Backend (In Progress)
 
-## License
 
-This project is licensed under the MIT License.  
-See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
-**Disclaimer:** This tool is intended for educational and personal use only.  
-Please respect [YouTube’s Terms of Service](https://www.youtube.com/t/terms) and the rights of content owners.
+**Disclaimer:** This tool is intended for educational and personal use only. Please respect [YouTube’s Terms of Service](https://www.youtube.com/t/terms) and the rights of content owners.
 
 
 ## TODO
@@ -35,5 +32,5 @@ Please respect [YouTube’s Terms of Service](https://www.youtube.com/t/terms) a
 - [ ] Issue: foreign characters not showing in folder names
 - [ ] Issue: skip download/processing when files already existed
 - [ ] Add options for better audio quality
-- [ ] Add cuda accelaration for 
+- [ ] Add cuda accelaration for supported machines
 ...
