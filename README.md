@@ -16,7 +16,7 @@ cd frontend
 pnpm install
 pnpm run dev
 ```
-<img src="assets/demo_screenshot.jpg" alt="ktvgen frontend demo" style="max-width: 250; height: auto;"/>
+<img src="assets/demo_screenshot.jpg" alt="ktvgen frontend demo" width="300"/>
 
 ## Backend (In Progress)
 
