@@ -23,7 +23,7 @@ pnpm run dev
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
-**Disclaimer:** This tool is intended for educational and personal use only. Please respect [YouTube’s Terms of Service](https://www.youtube.com/t/terms) and the rights of content owners.
+**Disclaimer:** This tool is intended for educational and personal use only. Please respect [YouTube’s Terms of Service](https://www.youtube.com/t/terms) and the rights of content owners. This tool processes media provided by the user. It does not host, stream, or distribute any copyrighted content.
 
 
 ## TODO
